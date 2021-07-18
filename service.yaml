@@ -10,5 +10,5 @@ spec:
     app: camunda
   ports:
     - port: 8080
-      #nodePort: 31337
+      nodePort: 31337
       protocol: TCP
